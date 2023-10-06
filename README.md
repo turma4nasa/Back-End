@@ -62,5 +62,5 @@ name: "React Native"
 
 
 ### Detalhes Adicionais
-- **Autores da Api:** [Gabriel Anacleto](https://www.linkedin.com/in/gabriel-anacletoo/) [Guilherme](https://github.com/syus13)
+- **Autores da Api:** [Gabriel Anacleto](https://www.linkedin.com/in/gabriel-anacletoo/) | [Guilherme](https://github.com/syus13)
 - **Contatos:** gabrielanacleto159@live.com
